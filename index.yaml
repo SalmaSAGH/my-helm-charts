@@ -3,12 +3,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-27T17:26:18.4079363+01:00"
+    created: "2024-12-27T17:40:39.7322364+01:00"
     description: A Helm chart for a Student application
-    digest: b7954c660dd166bc2dd2dcb727de8b29259f4523bb8d7dd86b575e1a8d9c18b2
+    digest: 6e3a767b44c2cf35df376a17f16f1a698d9059c8e561d2aaa47e46c845af0899
     name: my-app
     type: application
     urls:
     - https://github.com/SalmaSAGH/my-helm-charts.git/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-27T17:26:18.4048872+01:00"
+generated: "2024-12-27T17:40:39.723366+01:00"
