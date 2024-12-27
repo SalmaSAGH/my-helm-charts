@@ -11,7 +11,7 @@ frontend:
       cpu: "200m"
 backend:
   replicas: 2
-  image: "salmasaghough/backendex"
+  image: "salmasaghough/backend-app"
   resources:
     requests:
       memory: "256Mi"
