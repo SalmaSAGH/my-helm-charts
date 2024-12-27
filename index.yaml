@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://github.com/SalmaSAGH/my-helm-charts.git/my-app-0.1.0.tgz
+    - https://raw.githubusercontent.com/SalmaSAGH/my-helm-charts/main/my-app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-12-27T17:40:39.723366+01:00"
